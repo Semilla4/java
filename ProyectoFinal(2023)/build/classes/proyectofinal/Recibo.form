@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="77" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="jLabel6" pref="90" max="32767" attributes="0"/>
+                                  <Component id="jLabel7" max="32767" attributes="0"/>
+                                  <Component id="jLabel8" max="32767" attributes="0"/>
+                                  <Component id="jLabel9" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="94" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="87" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="29" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Roboto" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Boleta de Venta Electronica"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Precio del combo:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cantidad:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="M&#xe9;todo de pago:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Precio Total:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel6"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel7"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel8"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel9"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Procesar Pago"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cancelar Compra"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="T&#xe9;rminos y Condiciones  INFORMACI&#xd3;N RELEVANTE: Es requisito necesario para la adquisici&#xf3;n de los productos que se ofrecen en este sitio, que lea y acepte los siguientes T&#xe9;rminos y Condiciones que a continuaci&#xf3;n se redactan. El uso de nuestros servicios, as&#xed; como la compra de nuestros productos implicar&#xe1; que usted ha le&#xed;do y aceptado los T&#xe9;rminos y Condiciones de Uso en el presente documento. Todos los productos que son ofrecidos por nuestro sitio web pudieran ser creadas, cobradas, enviadas o presentadas por una p&#xe1;gina web tercera y en tal caso estar&#xed;an sujetas a sus propios T&#xe9;rminos y Condiciones.  LICENCIA HAMBURGUESAS SISE a trav&#xe9;s de su sitio web concede una licencia para que los usuarios utilicen los productos que son vendidos en este sitio web de acuerdo a los T&#xe9;rminos y Condiciones que se describen en este documento.  POL&#xcd;TICA DE REEMBOLSO Y GARANT&#xcd;A En el caso de productos que sean mercanc&#xed;as irrevocables no-tangibles, no realizamos reembolsos despu&#xe9;s de que se env&#xed;e el producto, usted tiene la responsabilidad de entender antes de comprarlo.  Le pedimos que lea cuidadosamente antes de comprarlo. Hacemos solamente excepciones con esta regla cuando la descripci&#xf3;n no se ajusta al producto. Hay algunos productos que pudieran tener garant&#xed;a y posibilidad de reembolso, pero este ser&#xe1; especificado al comprar el producto. En tales casos la garant&#xed;a solo cubrir&#xe1; fallas de f&#xe1;brica y s&#xf3;lo se har&#xe1; efectiva cuando el producto se haya usado correctamente. La garant&#xed;a no cubre aver&#xed;as o da&#xf1;os ocasionados por uso indebido. Los t&#xe9;rminos de la garant&#xed;a est&#xe1;n asociados a fallas de fabricaci&#xf3;n y funcionamiento en condiciones normales de los productos y s&#xf3;lo se har&#xe1;n efectivos estos t&#xe9;rminos si el equipo ha sido usado correctamente. Esto incluye: &#x2013; De acuerdo a las especificaciones t&#xe9;cnicas indicadas para cada producto. &#x2013; En condiciones ambientales acorde con las especificaciones indicadas por el fabricante. &#x2013; En uso espec&#xed;fico para la funci&#xf3;n con que fue dise&#xf1;ado de f&#xe1;brica. &#x2013; En condiciones de operaci&#xf3;n el&#xe9;ctricas acorde con las especificaciones y tolerancias indicadas.  PRIVACIDAD La suscripci&#xf3;n a boletines de correos electr&#xf3;nicos publicitarios es voluntaria y podr&#xed;a ser seleccionada al momento de crear su cuenta. HAMBURGUESAS SISE reserva los derechos de cambiar o de modificar estos t&#xe9;rminos sin previo aviso. Estas t&#xe9;rminos y condiciones se han generado en terminosycondicionesdeusoejemplo.com."/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <Properties>
+            <Property name="horizontalScrollBarPolicy" type="int" value="32"/>
+            <Property name="toolTipText" type="java.lang.String" value="T&#xe9;rminos y Condiciones&#xa;&#xa;INFORMACI&#xd3;N RELEVANTE:&#xa;Es requisito necesario para la adquisici&#xf3;n de los productos que se ofrecen en este sitio, que lea y acepte los siguientes T&#xe9;rminos y Condiciones que a continuaci&#xf3;n se redactan. El uso de nuestros servicios, as&#xed; como la compra de nuestros productos implicar&#xe1; que usted ha le&#xed;do y aceptado los T&#xe9;rminos y Condiciones de Uso en el presente documento. Todos los productos que son ofrecidos por nuestro sitio web pudieran ser creadas, cobradas, enviadas o presentadas por una p&#xe1;gina web tercera y en tal caso estar&#xed;an sujetas a sus propios T&#xe9;rminos y Condiciones.&#xa;&#xa;LICENCIA&#xa;HAMBURGUESAS SISE a trav&#xe9;s de su sitio web concede una licencia para que los usuarios utilicen los productos que son vendidos en este sitio web de acuerdo a los T&#xe9;rminos y Condiciones que se describen en este documento.&#xa;&#xa;POL&#xcd;TICA DE REEMBOLSO Y GARANT&#xcd;A&#xa;En el caso de productos que sean mercanc&#xed;as irrevocables no-tangibles, no realizamos reembolsos despu&#xe9;s de que se env&#xed;e el producto, usted tiene la responsabilidad de entender antes de comprarlo.  Le pedimos que lea cuidadosamente antes de comprarlo. Hacemos solamente excepciones con esta regla cuando la descripci&#xf3;n no se ajusta al producto. Hay algunos productos que pudieran tener garant&#xed;a y posibilidad de reembolso, pero este ser&#xe1; especificado al comprar el producto. En tales casos la garant&#xed;a solo cubrir&#xe1; fallas de f&#xe1;brica y s&#xf3;lo se har&#xe1; efectiva cuando el producto se haya usado correctamente. La garant&#xed;a no cubre aver&#xed;as o da&#xf1;os ocasionados por uso indebido. Los t&#xe9;rminos de la garant&#xed;a est&#xe1;n asociados a fallas de fabricaci&#xf3;n y funcionamiento en condiciones normales de los productos y s&#xf3;lo se har&#xe1;n efectivos estos t&#xe9;rminos si el equipo ha sido usado correctamente. Esto incluye:&#xa;&#x2013; De acuerdo a las especificaciones t&#xe9;cnicas indicadas para cada producto.&#xa;&#x2013; En condiciones ambientales acorde con las especificaciones indicadas por el fabricante.&#xa;&#x2013; En uso espec&#xed;fico para la funci&#xf3;n con que fue dise&#xf1;ado de f&#xe1;brica.&#xa;&#x2013; En condiciones de operaci&#xf3;n el&#xe9;ctricas acorde con las especificaciones y tolerancias indicadas.&#xa;&#xa;PRIVACIDAD&#xa;La suscripci&#xf3;n a boletines de correos electr&#xf3;nicos publicitarios es voluntaria y podr&#xed;a ser seleccionada al momento de crear su cuenta.&#xa;HAMBURGUESAS SISE reserva los derechos de cambiar o de modificar estos t&#xe9;rminos sin previo aviso.&#xa;Estas t&#xe9;rminos y condiciones se han generado en terminosycondicionesdeusoejemplo.com."/>
+            <Property name="verticalScrollBarPolicy" type="int" value="22"/>
+            <Property name="columnHeaderView" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="default"/>
+            </Property>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Move Cursor"/>
+            </Property>
+          </Properties>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
