@@ -173,6 +173,12 @@ public class frmCalificaciones extends javax.swing.JFrame {
                "\nNombre del Alumno: " + nombre +
                "\nPromedio de las Notas: " + resNew.resultado());
         
+    } 
+String nombre = txtNombre.getText();
+       notas = new procesoNotas (String nombre);
+       txtMostrar.setText(".:. Proceso de Notas .:." + 
+               "\nNombre del Alumno: " + nombre +
+               "\nPromedio de las Notas: " + resNew.resultado());
     }//GEN-LAST:event_btnProcesarActionPerformed
 
     
